@@ -1,0 +1,47 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+header>nav>ul{
+    list-style: none;
+    display:inline;
+}
+main{
+    column-count:3;
+    column-gap: 25px;
+    text-align: justify;
+    padding:30px;
+}
+
+h1{
+    text-align: center;
+    border-top:solid 4px black;
+    border-bottom: solid 4px black;
+    width:80%;
+    margin:auto;
+    font-weight: bolder;
+}
+
+h3{
+    margin:0px;
+    border-top:solid 3px;
+    border-bottom: solid 3px;
+    padding:5px;
+}
+
+header>figure{
+    text-align:center;
+}
+
+
+img{
+  width: 100%;
+  margin:0px;
+  padding:0px;
+
+}
+
+header>figure>img{
+    width:66%;
+}
